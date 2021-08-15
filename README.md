@@ -1,8 +1,4 @@
 <div align="center">
-<h1>Diggie - Developer Preview</h1>
-</div>
-
-<div align="center">
 <img src="https://raw.githubusercontent.com/DiggieApp/Diggie/master/main.png" alt="Professional GUI client for AWS OpenSearch" width="60%">
 </div>
 
