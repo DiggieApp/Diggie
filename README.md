@@ -22,6 +22,5 @@ This project is currently a developer preview version. Feedbacks and opinions ar
 - Query builder makes it easy to construct and run query to OpenSearch.
 - Query viewer makes it easy to see result of query.
 - Query History so that query can be reused.
-- 
 
 Maintained by [Serverless Operations, Inc](https://serverless.co.jp/)
