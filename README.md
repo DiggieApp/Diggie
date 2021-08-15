@@ -15,3 +15,5 @@ This project is currently a developer preview version. Feedbacks and opinions ar
 <div align="center">
 <img src="https://raw.githubusercontent.com/DiggieApp/Diggie/master/diggie.gif" alt="Professional GUI client for AWS OpenSearch" width="100%">
 </div>
+
+Maintained by [Serverless Operations, Inc](https://serverless.co.jp/)
