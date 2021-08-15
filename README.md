@@ -16,4 +16,12 @@ This project is currently a developer preview version. Feedbacks and opinions ar
 <img src="https://raw.githubusercontent.com/DiggieApp/Diggie/master/diggie.gif" alt="Professional GUI client for AWS OpenSearch" width="100%">
 </div>
 
+## Features
+
+- Generate automatically signature v4 header for OpenSearch endpoint uging your AWS profile.
+- Query builder makes it easy to construct and run query to OpenSearch.
+- Query viewer makes it easy to see result of query.
+- Query History so that query can be reused.
+- 
+
 Maintained by [Serverless Operations, Inc](https://serverless.co.jp/)
