@@ -38,4 +38,5 @@ law and the remaining provisions will continue in full force and effect.
 6. Amendments to This Agreement. The Company reserves the right, at its sole discretion, to modify or replace this
 Agreement at any time. What constitutes a material change will determined at our sole discretion.
 
-If you have any questions about the Agreement, please contact us. For more information on this, see https://github.com/DiggieApp/Diggie.
+If you have any questions about the Agreement, please contact us.
+For more information on this, see https://github.com/DiggieApp/Diggie.
